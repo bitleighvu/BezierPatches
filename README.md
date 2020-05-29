@@ -1,7 +1,7 @@
 # Bezier Patches
 CS3451 Bezier Patches in Processing
 
-### Description ###
+### Project Description ###
 Program in Processing is able to read a set of Bezier patches from a file and display polygons that are created by tessellating these patches and allows toggling between displaying the control points using line segments (two versions) or the final detailed patches. Program obeys the following keystroke commands:
 
 * 1-4: Read in a Bezier patch (one patch, sphere, teapot, elephant).
